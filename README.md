@@ -6,4 +6,4 @@ Neben den proprietaeren Formaten sind die Dateien ebenfalls als "nicht-barrieref
 
 Die Bausteine sind in diesem Repo als Markdown-Datei hinterlegt.
 
-Zum Vergleich ist der SHA256 Hash der Word-Datei hinterlegt auf der die Markdown Version basiert.
+Zum Vergleich ist der SHA256 Hash der Word-Datei hinterlegt, auf der die Markdown Version basiert.
